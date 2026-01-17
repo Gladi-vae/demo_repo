@@ -8,3 +8,7 @@ encore un test !
 test 2.
 
 autre test.
+
+## Local development
+
+1. Open index.html in your browser
